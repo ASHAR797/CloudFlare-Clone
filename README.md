@@ -1,5 +1,5 @@
 # CloudFlare-Clone
-html and css project
+HTML and CSS project
 
 Publish link || [ashar797.github.io/CloudFlare-Clone/](https://ashar797.github.io/CloudFlare-Clone/)
 
