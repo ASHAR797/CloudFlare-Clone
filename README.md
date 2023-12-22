@@ -1,7 +1,11 @@
 # CloudFlare-Clone
 html and css project
 
+<<<<<<< HEAD
 Publish link || https://ashar797.github.io/CloudFlare-Clone/
+=======
+Publish link || [ashar797.github.io/CloudFlare-Clone/](https://ashar797.github.io/CloudFlare-Clone/)
+>>>>>>> f80fa5f5a71c8cf3ff67b6ccfee7ebb0e7c9c107
 
 
 # Cloud Flare Project
